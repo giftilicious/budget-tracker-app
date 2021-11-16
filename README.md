@@ -19,3 +19,5 @@ Giving users a fast and easy way to track their money is important. But allowing
 
 
 To use this application, click on the following link:  [Budget Tracker App](https://travel-budget-tracker-app.herokuapp.com/)
+
+<img width="2048" alt="Screen Shot 2021-11-15 at 11 31 16 PM" src="https://user-images.githubusercontent.com/90150892/141920487-65cd882f-5e44-4b88-b41f-700bdaa8bc72.png">
